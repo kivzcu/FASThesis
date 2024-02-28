@@ -1,0 +1,14 @@
+__doc-src
+__img-src
+__backup
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.lo*
+*.out
+*.toc
+*.run.*
+
+# deploy archives
+FASThesis*.zip
